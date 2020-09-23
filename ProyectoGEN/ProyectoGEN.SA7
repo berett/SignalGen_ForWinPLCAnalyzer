@@ -1,0 +1,11 @@
+[PRJ]
+Type=SA
+CreateDate=24.08.2016
+CreateTime=11:43:22
+CreateTicks=526391002
+CreateTicksNeu=1
+VersionErstellt=V3.2.2.9
+[OpenSignalWindows]
+Open0=C:\Gen_WinPLCAnalyzer\dbBedCushion\Kurvenfenster.CRV
+Open1=C:\Gen_WinPLCAnalyzer\dbBolsterClamp\Kurvenfenster.CRV
+Open2=C:\Gen_WinPLCAnalyzer\dbBelt\Kurvenfenster.CRV

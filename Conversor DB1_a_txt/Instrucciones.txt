@@ -1,0 +1,4 @@
+- El fichero a convertir ha de llamarse "Output.txt" y tiene que estar junto con "DecodificarTextoPlano_DB1.py"
+- Cumpliendose lo de arriba, ejecutar (Doble clic) "DecodificarTextoPlano_DB1.py" para generar "OutputG.txt"
+
+NOTA: Hay que tener instalado Python 3.5 para que funcione.
